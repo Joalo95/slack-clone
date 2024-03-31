@@ -36,10 +36,6 @@ This will create a basic `todos` table, enable Row Level Security (RLS), and wri
 
 To seed your `todos` table with some dummy data, run the contents of the [seed.sql](./supabase/seed.sql) file.
 
-## Feedback and issues
-
-Please file feedback and issues over on the [Supabase GitHub org](https://github.com/supabase/supabase/issues/new/choose).
-
 ## More Supabase examples
 
 - [Next.js Subscription Payments Starter](https://github.com/vercel/nextjs-subscription-payments)
